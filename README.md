@@ -14,11 +14,11 @@ This repository contains a literature review, research notes and dataset collect
 3. Methodology development (acoustic analysis, feature extraction, ML approaches)
 
 ## Repository Structure
-- `/notes` - Research notes and ideas
-- `/methodology` - Step-by-step approacher and tools used
-- `/datasets` - Dataset information and links
-- `/experiments` - Experiment logs (future)
-- `/references` - Paper summaries and citations
+- [`/notes`](./notes) - Research notes and ideas
+- [`/methodology`](./methodology) - Step-by-step approacher and tools used
+- [`/datasets`](./datasets) - Dataset information and links
+- [`/experiments`](./experiments) - Experiment logs (future)
+- [`/references`](./references) - Paper summaries and citations
 
 ## Tools & Technologies
 - Audacity - Spectrogram visualization and audio analysis
