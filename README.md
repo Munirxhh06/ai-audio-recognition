@@ -1,17 +1,27 @@
 # AI Audio Recognition
 
 ## Project Overview
-This repository will consist of literature review, research notes and dataset collection related to audio recognition focusing on generating AI voice and detecting AI. It will also hightlight the key difference for human audio and AI audio.
+This repository contains a literature review, research notes and dataset collection related to AI audio recognition focusing on AI voice generation and detecting AI. The project aims to identify key differences between human and AI-generated audio.
 
-### Current Highlight
-1. Literature review
+## Research Objectives
+- Analyze distinguish features between human and AI-generated voices
+- Evaluate existing datasets for AI audio detection
+- Document methodology for audio analysis and feature extraction
+
+## Current Focus
+1. Literature review on AI voice generation and detection techniques
 2. Dataset Collection and evaluation
+3. Methodology development (acoustic analysis, feature extraction, ML approaches)
 
-### Structure
+## Repository Structure
 - `/notes` - Research notes and ideas
+- `/methodology` - Step-by-step approacher and tools used
 - `/datasets` - Dataset information and links
 - `/experiments` - Experiment logs (future)
 - `/references` - Paper summaries and citations
+
+## Tools & Technologies
+- Audacity - Spectrogram visualization and audio analysis
 
 ## Status
 Started: 22 September 2025
